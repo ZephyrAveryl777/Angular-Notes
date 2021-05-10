@@ -49,3 +49,9 @@ var app = angular.module("myModule", [ ]);
 - the above code, it will create module name "**myModule**" and it will not dependent on any external module due to second parameter as an empty array.
 
 ---
+<h4 align="right">
+<p> 
+   <a href=""> Next: Features of AngularJS </a>
+   </p>
+</h4>
+   
