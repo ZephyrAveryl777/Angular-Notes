@@ -51,7 +51,7 @@ var app = angular.module("myModule", [ ]);
 ---
 <h4 align="right">
 <p> 
-   <a href=""> Next: Features of AngularJS </a>
+   <a href=""> Next: Environment setup </a>
    </p>
 </h4>
    
