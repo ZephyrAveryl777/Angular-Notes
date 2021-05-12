@@ -40,7 +40,7 @@ Hello World!
 
 ![Illustration of Angular $scope](https://www.tutorialsteacher.com/Content/images/ng/ng-controller.png)
 
-### **`$rooSpace`**
+### **`$rootSpace`**
 - an angularJS application has a single `$rootScope`.
 - all other $scope objects are child objects.
 - properties and methods attached to `$rootSpace` will be available to all the controllers.
