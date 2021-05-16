@@ -94,6 +94,6 @@ So better apply ng-app directive in HTML tag.
 ---
 <h4 align="left">
 <p> 
-   <a href=""> Previous: Introduction</a>
+   <a href="https://github.com/ZephyrAveryl777/Angular-Notes/blob/main/Introduction.md"> Previous: Introduction</a>
    </p>
 </h4>
