@@ -1,10 +1,19 @@
-## What is AngularJS?
+## AngularJS
 
 - AngularJS is a JavaScript framework that helps to build web application.
 - It is a full featured single page application framework. It can be added to an HTML page with a `<script>` tag.
 - AngularJS enables one to create cross-browse application.
 - It automatically handles JavaScript code that is compatible for each browser.
 -   It is an open source project, which mean that it can be freely used, the code can be changed and shared by anyone.
+
+### Versions of Angular 
+- Early versions of Angular was named as Angular 2
+- later was renamed to just Angular. 
+- the lastest version uses ivy compiler and runtime by default, as it brings smaller bundle sizes, faster & better testing debugging, improved type checking, build times, etc 
+
+### Prequesties 
+- requires a working knowledge of JavaScript,HTMl,CSS, also the concepts of OOP. 
+- TypeScript would be an added advantage, 
 
 ## Core Features
 
