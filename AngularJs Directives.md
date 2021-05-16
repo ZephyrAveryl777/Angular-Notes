@@ -8,22 +8,23 @@
 	- ng- repeat : repeats  html elements for each item in  a collection
 - types of Directives:
 	- **Component**
-			  -  adding the @Component annotation extends the @Directive annotation with template-related features
-			  -  instead of manipulating the DOM, it comes with its own template
-			  -  components use the directive API and provide a nicer way to define them
+		-  adding the @Component annotation extends the @Directive annotation with template-related features
+		-  instead of manipulating the DOM, it comes with its own template
+		-  components use the directive API and provide a nicer way to define them
 	- **Attribute Directives**
-			  -  manipulate the DOM by changing it's appearance and behaviour.
-		  	-  are like normal HTML attribute and can be applied to DOM elements
-			  -  an example of attribute directive is the ngModel directive `<input [[ngModel]] = "student.name">`
+	        -  manipulate the DOM by changing it's appearance and behaviour.
+		-  are like normal HTML attribute and can be applied to DOM elements
+	        -  an example of attribute directive is the ngModel directive 
+	        `<input [[ngModel]] = "student.name">`
 	- **Structural Directive**
-			-  used to create and remove DOM elements
-			-  these modify the layout by adding,removing or replacing elements.
-			-  normally start with the \*sign
-			-  **Example :**
-			````html
-				<li \*ngFor="let student of students"\></li>
-			<app\-student-detail \*ngIf="selectedStudent"\></app-student-detail>
-			````
+		-  used to create and remove DOM elements
+		-  these modify the layout by adding,removing or replacing elements.
+		-  normally start with the \*sign
+		-  **Example :**
+		````html
+			<li \*ngFor="let student of students"\></li>
+		<app\-student-detail \*ngIf="selectedStudent"\></app-student-detail>
+		````
 ---
 ### Example of AngularJS directives
 ````html
